@@ -1,6 +1,6 @@
  [![MasterHead](https://s.yimg.com/ny/api/res/1.2/y1UvwmSpmz9ZvRr4uF848w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2NQ--/https://media.zenfs.com/en-US/homerun/engadget_479/a10618ff9709bb3ace5f62fe0b255ff6)](https://only13harsh.io)
 <h1 align="center">Hi 👋, I'm Harsh singh</h1>
-<h3 align="center">A passionate Cyber security and web dev developer from India</h3>
+<h3 align="center">A passionate Cyber security and web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 

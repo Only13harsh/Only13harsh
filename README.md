@@ -1,6 +1,9 @@
 <h1 align="center">Hi there! 👋 I'm Harsh Singh</h1>
 <h3 align="center">Passionate Cybersecurity Enthusiast and Web Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+
+<div align="center">
+  <img alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+</div>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=only13harsh&label=Profile%20views&color=0e75b6&style=flat" alt="only13harsh" />

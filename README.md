@@ -5,23 +5,25 @@
   <img alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 </div>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=only13harsh&label=Profile%20views&color=0e75b6&style=flat" alt="only13harsh" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=only13harsh" alt="only13harsh" />
   </a>
 </p>
 
-- 🌱 I’m currently learning **Web Scraping**
-- 💬 Ask me about **C, C++, and Java**
-- 📫 How to reach me: **harshsinghjaunpur@gmail.com**
-- ⚡ Fun fact: **I think I am funny**
+<p align="center"> <!-- Updated alignment to center -->
+  - 🌱 I’m currently learning <strong>Web Scraping</strong><br>
+  - 💬 Ask me about <strong>C, C++, and Java</strong><br>
+  - 📫 How to reach me: <strong>harshsinghjaunpur@gmail.com</strong><br>
+  - ⚡ Fun fact: <strong>I think I am funny</strong>
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://linkedin.com/in/harsh-singh-773b961a8" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-singh-773b961a8" height="30" width="40" />
   </a>
@@ -36,7 +38,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -64,14 +66,14 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=only13harsh&show_icons=true&locale=en&layout=compact" alt="only13harsh" />
-</p>
+<div align="center"> <!-- Updated alignment to center -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=only13harsh&show_icons=true&locale=en&layout=compact" alt="only13harsh" />
+</div>
 
-<p>
+<div align="center"> <!-- Updated alignment to center -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=only13harsh&show_icons=true&locale=en" alt="only13harsh" />
-</p>
+</div>
 
-<p>
+<div align="center"> <!-- Updated alignment to center -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=only13harsh&" alt="only13harsh" />
-</p>
+</div>
